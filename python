@@ -1,0 +1,9 @@
+bicycles = ['trek', 'Aannondale', 'redline', 'specialized']
+bicycles[0] = 'a王二娃'
+bicycles.append('王二娃大撒比')
+print(bicycles[3-3].title())
+print(bicycles[1].lower())
+print(bicycles[4])
+bicycles.insert(4,'花了300')
+message = f'奔驰{bicycles[4]}'
+print(message) 
